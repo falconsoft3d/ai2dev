@@ -3,7 +3,7 @@ import React  from 'react'
 export default function AiZone() {
   return (
     <>
-    <div className="flex h-screen">  
+    <div className="flex">  
     <div className='m-auto'>
         <form class="w-full max-w-lg">
             <div className='m-5'>
