@@ -1,5 +1,5 @@
 ## AI2DEV
-This project is for help a developer to create a new project in Odoo with a good structure and with a good practices. For which we will use artificial intelligence.
+This project is for help a developer to create a new project in Odoo "For Now ..." with a good structure and with a good practices. For which we will use artificial intelligence.
 
 ![Alt text](https://github.com/falconsoft3d/images/blob/main/nextjs-js-html.png?raw=true "Ai2dev")
 
