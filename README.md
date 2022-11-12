@@ -2,7 +2,7 @@
 This project is for help a developer to create a new project in Odoo with a good structure and with a good practices. For which we will use artificial intelligence.
 
 # My Contact Info
-Marlon Falcón Hernández | España | Madrid
+Marlon Falcón Hernández | Valencia | Spain
 ```
 * ERP, CRM y Software: https://www.marlonfalcon.com
 » Email: mfalconsoft@gmail.com , falconsof.3d@gmail.com
