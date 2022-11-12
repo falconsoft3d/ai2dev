@@ -1,6 +1,9 @@
 ## AI2DEV
 This project is for help a developer to create a new project in Odoo with a good structure and with a good practices. For which we will use artificial intelligence.
 
+![Alt text](https://github.com/falconsoft3d/images/blob/main/odoo-docker-post.png?raw=true "Ai2dev")
+
+
 # My Contact Info
 Marlon Falcón Hernández | Valencia | Spain
 ```
