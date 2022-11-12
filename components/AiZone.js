@@ -10,6 +10,18 @@ export default function AiZone() {
 
     const text2code = async (code) => {
         const zip = new JSZip();
+        console.log("code", code);
+        if (code in [ "simple template", "1- Simple Template", "Simple Template" ]) {
+            console.log("esta")
+            zip.file("init.py", code);
+        }
+        else{
+            console.log("no esta")
+        }
+        
+
+
+        
         zip.file("code.txt", code);
         const content = await zip.generateAsync({type:"blob"});
         const url = URL.createObjectURL(content);
