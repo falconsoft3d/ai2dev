@@ -26,4 +26,9 @@ npm i
 npm run dev
 ```
 
+# Links
+1. https://ai2dev.com
+2. https://ai2dev.vercel.app
+
+
 
