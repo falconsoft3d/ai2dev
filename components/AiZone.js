@@ -6,6 +6,11 @@ export default function AiZone() {
     <div className="flex">  
     <div className='m-auto'>
         <form class="w-full max-w-lg">
+
+            <div className='m-5'>
+                <h1 class="text-4xl bollde">Ai2Dev</h1>
+            </div>
+
             <div className='m-5'>
                 <h1 className="text-gray-500">Describe what you want to create</h1>
             </div>
@@ -25,6 +30,7 @@ export default function AiZone() {
 
             <div className='m-5'>
                 <textarea className='block appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500'>
+                    
                 </textarea>
             </div>
 
